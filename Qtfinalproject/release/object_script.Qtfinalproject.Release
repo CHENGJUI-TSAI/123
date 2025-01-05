@@ -1,0 +1,10 @@
+release/Qtproject.o
+release/aivsplayer.o
+release/localgame.o
+release/main.o
+release/networkgame.o
+release/qrc_icons.o
+release/moc_Qtproject.o
+release/moc_aivsplayer.o
+release/moc_localgame.o
+release/moc_networkgame.o

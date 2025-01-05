@@ -1,0 +1,10 @@
+debug/Qtproject.o
+debug/aivsplayer.o
+debug/localgame.o
+debug/main.o
+debug/networkgame.o
+debug/qrc_icons.o
+debug/moc_Qtproject.o
+debug/moc_aivsplayer.o
+debug/moc_localgame.o
+debug/moc_networkgame.o
